@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\obj\Debug\net5.0\DocumentComment.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\obj\Debug\net5.0\DocumentComment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\obj\Debug\net5.0\DocumentComment.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\obj\Debug\net5.0\DocumentComment.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\obj\Debug\net5.0\DocumentComment.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\bin\Debug\net5.0\DocumentComment.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\bin\Debug\net5.0\DocumentComment.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\bin\Debug\net5.0\DocumentComment.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\bin\Debug\net5.0\DocumentComment.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\bin\Debug\net5.0\DocumentComment.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\bin\Debug\net5.0\ref\DocumentComment.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\bin\Debug\net5.0\DocumentComment.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\obj\Debug\net5.0\DocumentComment.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\obj\Debug\net5.0\ref\DocumentComment.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\obj\Debug\net5.0\DocumentComment.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\DocumentComment\DocumentComment\obj\Debug\net5.0\DocumentComment.genruntimeconfig.cache

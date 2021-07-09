@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\bin\Debug\net5.0\SelfSharp.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\bin\Debug\net5.0\SelfSharp.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\bin\Debug\net5.0\SelfSharp.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\bin\Debug\net5.0\SelfSharp.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\bin\Debug\net5.0\SelfSharp.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\bin\Debug\net5.0\ref\SelfSharp.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\bin\Debug\net5.0\SelfSharp.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\obj\Debug\net5.0\SelfSharp.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\obj\Debug\net5.0\SelfSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\obj\Debug\net5.0\SelfSharp.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\obj\Debug\net5.0\SelfSharp.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\obj\Debug\net5.0\SelfSharp.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\obj\Debug\net5.0\SelfSharp.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\obj\Debug\net5.0\ref\SelfSharp.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\obj\Debug\net5.0\SelfSharp.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap01\SelfSharp\SelfSharp\obj\Debug\net5.0\SelfSharp.genruntimeconfig.cache
