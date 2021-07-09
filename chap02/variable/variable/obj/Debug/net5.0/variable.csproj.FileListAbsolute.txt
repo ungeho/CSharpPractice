@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\bin\Debug\net5.0\variable.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\bin\Debug\net5.0\variable.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\bin\Debug\net5.0\variable.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\bin\Debug\net5.0\variable.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\bin\Debug\net5.0\variable.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\bin\Debug\net5.0\ref\variable.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\bin\Debug\net5.0\variable.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\obj\Debug\net5.0\variable.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\obj\Debug\net5.0\variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\obj\Debug\net5.0\variable.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\obj\Debug\net5.0\variable.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\obj\Debug\net5.0\variable.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\obj\Debug\net5.0\variable.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\obj\Debug\net5.0\ref\variable.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\obj\Debug\net5.0\variable.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\variable\variable\obj\Debug\net5.0\variable.genruntimeconfig.cache
