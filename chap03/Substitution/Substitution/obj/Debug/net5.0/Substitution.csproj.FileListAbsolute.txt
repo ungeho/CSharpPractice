@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\bin\Debug\net5.0\Substitution.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\bin\Debug\net5.0\Substitution.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\bin\Debug\net5.0\Substitution.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\bin\Debug\net5.0\Substitution.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\bin\Debug\net5.0\Substitution.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\bin\Debug\net5.0\ref\Substitution.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\bin\Debug\net5.0\Substitution.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\obj\Debug\net5.0\Substitution.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\obj\Debug\net5.0\Substitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\obj\Debug\net5.0\Substitution.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\obj\Debug\net5.0\Substitution.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\obj\Debug\net5.0\Substitution.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\obj\Debug\net5.0\Substitution.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\obj\Debug\net5.0\ref\Substitution.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\obj\Debug\net5.0\Substitution.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\Substitution\Substitution\obj\Debug\net5.0\Substitution.genruntimeconfig.cache

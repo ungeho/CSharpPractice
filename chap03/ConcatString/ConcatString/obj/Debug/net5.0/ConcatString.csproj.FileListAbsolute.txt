@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\bin\Debug\net5.0\ConcatString.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\bin\Debug\net5.0\ConcatString.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\bin\Debug\net5.0\ConcatString.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\bin\Debug\net5.0\ConcatString.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\bin\Debug\net5.0\ConcatString.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\bin\Debug\net5.0\ref\ConcatString.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\bin\Debug\net5.0\ConcatString.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\obj\Debug\net5.0\ConcatString.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\obj\Debug\net5.0\ConcatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\obj\Debug\net5.0\ConcatString.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\obj\Debug\net5.0\ConcatString.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\obj\Debug\net5.0\ConcatString.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\obj\Debug\net5.0\ConcatString.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\obj\Debug\net5.0\ref\ConcatString.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\obj\Debug\net5.0\ConcatString.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatString\ConcatString\obj\Debug\net5.0\ConcatString.genruntimeconfig.cache

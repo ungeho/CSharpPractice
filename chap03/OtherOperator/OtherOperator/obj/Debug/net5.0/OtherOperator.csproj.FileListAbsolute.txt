@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\bin\Debug\net5.0\OtherOperator.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\bin\Debug\net5.0\OtherOperator.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\bin\Debug\net5.0\OtherOperator.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\bin\Debug\net5.0\OtherOperator.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\bin\Debug\net5.0\OtherOperator.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\bin\Debug\net5.0\ref\OtherOperator.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\bin\Debug\net5.0\OtherOperator.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\obj\Debug\net5.0\OtherOperator.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\obj\Debug\net5.0\OtherOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\obj\Debug\net5.0\OtherOperator.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\obj\Debug\net5.0\OtherOperator.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\obj\Debug\net5.0\OtherOperator.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\obj\Debug\net5.0\OtherOperator.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\obj\Debug\net5.0\ref\OtherOperator.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\obj\Debug\net5.0\OtherOperator.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\OtherOperator\OtherOperator\obj\Debug\net5.0\OtherOperator.genruntimeconfig.cache

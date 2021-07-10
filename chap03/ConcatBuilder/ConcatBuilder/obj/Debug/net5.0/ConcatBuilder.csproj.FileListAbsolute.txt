@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\bin\Debug\net5.0\ConcatBuilder.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\bin\Debug\net5.0\ConcatBuilder.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\bin\Debug\net5.0\ConcatBuilder.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\bin\Debug\net5.0\ConcatBuilder.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\bin\Debug\net5.0\ConcatBuilder.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\bin\Debug\net5.0\ref\ConcatBuilder.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\bin\Debug\net5.0\ConcatBuilder.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\obj\Debug\net5.0\ConcatBuilder.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\obj\Debug\net5.0\ConcatBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\obj\Debug\net5.0\ConcatBuilder.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\obj\Debug\net5.0\ConcatBuilder.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\obj\Debug\net5.0\ConcatBuilder.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\obj\Debug\net5.0\ConcatBuilder.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\obj\Debug\net5.0\ref\ConcatBuilder.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\obj\Debug\net5.0\ConcatBuilder.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap03\ConcatBuilder\ConcatBuilder\obj\Debug\net5.0\ConcatBuilder.genruntimeconfig.cache
