@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\bin\Debug\net5.0\Switchtype.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\bin\Debug\net5.0\Switchtype.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\bin\Debug\net5.0\Switchtype.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\bin\Debug\net5.0\Switchtype.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\bin\Debug\net5.0\Switchtype.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\bin\Debug\net5.0\ref\Switchtype.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\bin\Debug\net5.0\Switchtype.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\obj\Debug\net5.0\Switchtype.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\obj\Debug\net5.0\Switchtype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\obj\Debug\net5.0\Switchtype.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\obj\Debug\net5.0\Switchtype.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\obj\Debug\net5.0\Switchtype.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\obj\Debug\net5.0\Switchtype.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\obj\Debug\net5.0\ref\Switchtype.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\obj\Debug\net5.0\Switchtype.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Switchtype\Switchtype\obj\Debug\net5.0\Switchtype.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\obj\Debug\net5.0\Goto.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\obj\Debug\net5.0\Goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\obj\Debug\net5.0\Goto.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\obj\Debug\net5.0\Goto.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\obj\Debug\net5.0\Goto.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\bin\Debug\net5.0\Goto.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\bin\Debug\net5.0\Goto.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\bin\Debug\net5.0\Goto.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\bin\Debug\net5.0\Goto.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\bin\Debug\net5.0\Goto.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\bin\Debug\net5.0\ref\Goto.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\bin\Debug\net5.0\Goto.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\obj\Debug\net5.0\Goto.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\obj\Debug\net5.0\ref\Goto.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\obj\Debug\net5.0\Goto.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\Goto\Goto\obj\Debug\net5.0\Goto.genruntimeconfig.cache

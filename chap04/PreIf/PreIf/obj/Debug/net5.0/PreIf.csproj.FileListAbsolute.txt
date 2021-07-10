@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\obj\Debug\net5.0\PreIf.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\obj\Debug\net5.0\PreIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\obj\Debug\net5.0\PreIf.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\obj\Debug\net5.0\PreIf.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\obj\Debug\net5.0\PreIf.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\bin\Debug\net5.0\PreIf.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\bin\Debug\net5.0\PreIf.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\bin\Debug\net5.0\PreIf.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\bin\Debug\net5.0\PreIf.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\bin\Debug\net5.0\PreIf.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\bin\Debug\net5.0\ref\PreIf.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\bin\Debug\net5.0\PreIf.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\obj\Debug\net5.0\PreIf.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\obj\Debug\net5.0\ref\PreIf.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\obj\Debug\net5.0\PreIf.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\PreIf\PreIf\obj\Debug\net5.0\PreIf.genruntimeconfig.cache

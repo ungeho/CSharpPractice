@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\bin\Debug\net5.0\ForComma.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\bin\Debug\net5.0\ForComma.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\bin\Debug\net5.0\ForComma.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\bin\Debug\net5.0\ForComma.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\bin\Debug\net5.0\ForComma.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\bin\Debug\net5.0\ref\ForComma.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\bin\Debug\net5.0\ForComma.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\obj\Debug\net5.0\ForComma.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\obj\Debug\net5.0\ForComma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\obj\Debug\net5.0\ForComma.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\obj\Debug\net5.0\ForComma.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\obj\Debug\net5.0\ForComma.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\obj\Debug\net5.0\ForComma.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\obj\Debug\net5.0\ref\ForComma.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\obj\Debug\net5.0\ForComma.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\ForComma\ForComma\obj\Debug\net5.0\ForComma.genruntimeconfig.cache

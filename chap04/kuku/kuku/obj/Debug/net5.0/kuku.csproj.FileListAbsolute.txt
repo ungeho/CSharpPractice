@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\bin\Debug\net5.0\kuku.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\bin\Debug\net5.0\kuku.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\bin\Debug\net5.0\kuku.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\bin\Debug\net5.0\kuku.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\bin\Debug\net5.0\kuku.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\bin\Debug\net5.0\ref\kuku.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\bin\Debug\net5.0\kuku.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\obj\Debug\net5.0\kuku.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\obj\Debug\net5.0\kuku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\obj\Debug\net5.0\kuku.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\obj\Debug\net5.0\kuku.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\obj\Debug\net5.0\kuku.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\obj\Debug\net5.0\kuku.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\obj\Debug\net5.0\ref\kuku.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\obj\Debug\net5.0\kuku.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap04\kuku\kuku\obj\Debug\net5.0\kuku.genruntimeconfig.cache
