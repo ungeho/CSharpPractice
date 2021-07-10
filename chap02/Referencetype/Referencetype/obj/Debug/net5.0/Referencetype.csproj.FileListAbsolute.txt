@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\bin\Debug\net5.0\Referencetype.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\bin\Debug\net5.0\Referencetype.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\bin\Debug\net5.0\Referencetype.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\bin\Debug\net5.0\Referencetype.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\bin\Debug\net5.0\Referencetype.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\bin\Debug\net5.0\ref\Referencetype.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\bin\Debug\net5.0\Referencetype.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\obj\Debug\net5.0\Referencetype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\obj\Debug\net5.0\Referencetype.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\obj\Debug\net5.0\Referencetype.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\obj\Debug\net5.0\Referencetype.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\obj\Debug\net5.0\Referencetype.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\obj\Debug\net5.0\ref\Referencetype.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\obj\Debug\net5.0\Referencetype.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap02\Referencetype\Referencetype\obj\Debug\net5.0\Referencetype.genruntimeconfig.cache
