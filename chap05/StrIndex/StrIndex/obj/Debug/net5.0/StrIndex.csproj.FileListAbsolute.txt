@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\bin\Debug\net5.0\StrIndex.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\bin\Debug\net5.0\StrIndex.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\bin\Debug\net5.0\StrIndex.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\bin\Debug\net5.0\StrIndex.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\bin\Debug\net5.0\StrIndex.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\bin\Debug\net5.0\ref\StrIndex.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\bin\Debug\net5.0\StrIndex.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\obj\Debug\net5.0\StrIndex.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\obj\Debug\net5.0\StrIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\obj\Debug\net5.0\StrIndex.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\obj\Debug\net5.0\StrIndex.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\obj\Debug\net5.0\StrIndex.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\obj\Debug\net5.0\StrIndex.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\obj\Debug\net5.0\ref\StrIndex.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\obj\Debug\net5.0\StrIndex.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrIndex\StrIndex\obj\Debug\net5.0\StrIndex.genruntimeconfig.cache

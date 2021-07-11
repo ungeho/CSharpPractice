@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\bin\Debug\net5.0\StrLength.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\bin\Debug\net5.0\StrLength.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\bin\Debug\net5.0\StrLength.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\bin\Debug\net5.0\StrLength.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\bin\Debug\net5.0\StrLength.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\bin\Debug\net5.0\ref\StrLength.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\bin\Debug\net5.0\StrLength.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\obj\Debug\net5.0\StrLength.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\obj\Debug\net5.0\StrLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\obj\Debug\net5.0\StrLength.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\obj\Debug\net5.0\StrLength.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\obj\Debug\net5.0\StrLength.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\obj\Debug\net5.0\StrLength.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\obj\Debug\net5.0\ref\StrLength.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\obj\Debug\net5.0\StrLength.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrLength\StrLength\obj\Debug\net5.0\StrLength.genruntimeconfig.cache

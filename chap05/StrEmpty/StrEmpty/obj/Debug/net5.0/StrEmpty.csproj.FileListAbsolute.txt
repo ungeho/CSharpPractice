@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\bin\Debug\net5.0\StrEmpty.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\bin\Debug\net5.0\StrEmpty.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\bin\Debug\net5.0\StrEmpty.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\bin\Debug\net5.0\StrEmpty.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\bin\Debug\net5.0\StrEmpty.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\bin\Debug\net5.0\ref\StrEmpty.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\bin\Debug\net5.0\StrEmpty.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\obj\Debug\net5.0\StrEmpty.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\obj\Debug\net5.0\StrEmpty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\obj\Debug\net5.0\StrEmpty.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\obj\Debug\net5.0\StrEmpty.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\obj\Debug\net5.0\StrEmpty.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\obj\Debug\net5.0\StrEmpty.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\obj\Debug\net5.0\ref\StrEmpty.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\obj\Debug\net5.0\StrEmpty.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrEmpty\StrEmpty\obj\Debug\net5.0\StrEmpty.genruntimeconfig.cache

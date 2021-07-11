@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\bin\Debug\net5.0\StrSplit.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\bin\Debug\net5.0\StrSplit.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\bin\Debug\net5.0\StrSplit.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\bin\Debug\net5.0\StrSplit.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\bin\Debug\net5.0\StrSplit.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\bin\Debug\net5.0\ref\StrSplit.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\bin\Debug\net5.0\StrSplit.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\obj\Debug\net5.0\StrSplit.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\obj\Debug\net5.0\StrSplit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\obj\Debug\net5.0\StrSplit.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\obj\Debug\net5.0\StrSplit.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\obj\Debug\net5.0\StrSplit.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\obj\Debug\net5.0\StrSplit.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\obj\Debug\net5.0\ref\StrSplit.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\obj\Debug\net5.0\StrSplit.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrSplit\StrSplit\obj\Debug\net5.0\StrSplit.genruntimeconfig.cache

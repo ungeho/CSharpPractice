@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\bin\Debug\net5.0\StrCompare.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\bin\Debug\net5.0\StrCompare.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\bin\Debug\net5.0\StrCompare.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\bin\Debug\net5.0\StrCompare.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\bin\Debug\net5.0\StrCompare.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\bin\Debug\net5.0\ref\StrCompare.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\bin\Debug\net5.0\StrCompare.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\obj\Debug\net5.0\StrCompare.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\obj\Debug\net5.0\StrCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\obj\Debug\net5.0\StrCompare.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\obj\Debug\net5.0\StrCompare.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\obj\Debug\net5.0\StrCompare.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\obj\Debug\net5.0\StrCompare.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\obj\Debug\net5.0\ref\StrCompare.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\obj\Debug\net5.0\StrCompare.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap05\StrCompare\StrCompare\obj\Debug\net5.0\StrCompare.genruntimeconfig.cache
