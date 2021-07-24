@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\bin\Debug\net5.0\regularexpression.exe
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\bin\Debug\net5.0\regularexpression.deps.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\bin\Debug\net5.0\regularexpression.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\bin\Debug\net5.0\regularexpression.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\bin\Debug\net5.0\regularexpression.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\bin\Debug\net5.0\ref\regularexpression.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\bin\Debug\net5.0\regularexpression.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\obj\Debug\net5.0\regularexpression.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\obj\Debug\net5.0\regularexpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\obj\Debug\net5.0\regularexpression.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\obj\Debug\net5.0\regularexpression.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\obj\Debug\net5.0\regularexpression.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\obj\Debug\net5.0\regularexpression.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\obj\Debug\net5.0\ref\regularexpression.dll
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\obj\Debug\net5.0\regularexpression.pdb
+C:\Users\kunya\Documents\GitHub\CSharpPractice\chap06\regularexpression\regularexpression\obj\Debug\net5.0\regularexpression.genruntimeconfig.cache
