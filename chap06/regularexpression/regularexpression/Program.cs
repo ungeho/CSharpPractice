@@ -12,6 +12,7 @@ namespace regularexpression
             foreach(var t in tel)
             {
                 Console.WriteLine(rgx.IsMatch(t) ? t : "アンマッチ");
+
             }
         }
     }
